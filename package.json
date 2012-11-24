@@ -1,0 +1,20 @@
+{
+    "name": "jplus",
+    "version": "0.0.1",
+    "description": "javascript utility library for node js",
+    "author": "Emma Liu <bl2400@columbia.edu>",
+    "contributors": [{
+        "name": "Emma Liu",
+        "email": "bl2400@columbia.edu"
+    }],
+    "main": "./lib/jplus",
+    "engines": { "node": ">= 0.1.90" },
+    "bugs": {
+        "url": "https://github.com/emma1023/jplus/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emma1023/jplus.git"
+    },
+    "homepage": "https://github.com/emma1023/jplus"
+}
